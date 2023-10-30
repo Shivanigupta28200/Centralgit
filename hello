@@ -1,6 +1,1 @@
-#include<stdioo.h>
-#include<conio.h>
-Int main()
-{
-printf("hello");
-}
+output:hello
